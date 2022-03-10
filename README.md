@@ -6,6 +6,7 @@ A shell script for playing Transformers: War For Cybertron using Steam Proton on
 * wine
 * winetricks
 * [protontricks](https://github.com/Matoking/protontricks)
+* [Transformers: War for Cybertro FPS and FOV unlocker](https://www.wsgf.org/phpBB3/download/file.php?id=2268)
 
 
 ## Instuctions

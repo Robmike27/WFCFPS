@@ -10,7 +10,8 @@ A shell script for playing Transformers: War For Cybertron using Steam Proton on
 
 
 ## Instuctions
-1. Set script to be executable. (chmod +x or by other means)
-2. Run Transformers War for Cyberton on steam.
-3. Wait or skip to the main menu.
-4. Now run the script.
+1. Download the fps tool and the script, and place them in the same directory.
+2. Set script to be executable. (chmod +x or by other means)
+3. Run Transformers War for Cyberton on steam.
+4. Get to the main menu.
+5. Now run the script.

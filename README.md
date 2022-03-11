@@ -9,7 +9,7 @@ A shell script for playing Transformers: War For Cybertron using Steam Proton on
 * [Transformers: War for Cybertro FPS and FOV unlocker](https://www.wsgf.org/phpBB3/download/file.php?id=2268)
 
 
-## Instuctions
+## Instructions
 1. Download the fps tool and the script, and place them in the same directory.
 2. Set script to be executable. (chmod +x or by other means)
 3. Run Transformers War for Cyberton on steam.
